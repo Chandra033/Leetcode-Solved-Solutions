@@ -35,4 +35,12 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/3310-remove-methods-from-project) |
+## Math
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
