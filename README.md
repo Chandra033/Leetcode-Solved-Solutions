@@ -7,6 +7,7 @@
 | [0031-next-permutation](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0169-majority-element](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0169-majority-element) |
+| [1929-concatenation-of-array](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/1929-concatenation-of-array) |
 | [3731-find-missing-elements](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -75,4 +76,8 @@
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
