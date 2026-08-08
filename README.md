@@ -9,6 +9,7 @@
 | [0169-majority-element](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0229-majority-element-ii) |
 | [1929-concatenation-of-array](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/1929-concatenation-of-array) |
+| [2460-apply-operations-to-an-array](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [3731-find-missing-elements](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0031-next-permutation) |
+| [2460-apply-operations-to-an-array](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
@@ -88,6 +90,7 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/1929-concatenation-of-array) |
+| [2460-apply-operations-to-an-array](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
