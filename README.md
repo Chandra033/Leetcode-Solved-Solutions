@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0031-next-permutation) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 ## String
 |  |
 | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
@@ -76,6 +78,7 @@
 ## Greedy
 |  |
 | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -85,4 +88,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/1929-concatenation-of-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
