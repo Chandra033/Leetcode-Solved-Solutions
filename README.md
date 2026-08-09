@@ -8,6 +8,7 @@
 | [0031-next-permutation](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0169-majority-element](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1929-concatenation-of-array](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/1929-concatenation-of-array) |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -25,6 +27,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0242-valid-anagram) |
 | [3731-find-missing-elements](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/3731-find-missing-elements) |
