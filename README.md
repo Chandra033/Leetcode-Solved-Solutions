@@ -18,6 +18,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3731-find-missing-elements](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -25,6 +26,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0242-valid-anagram) |
 | [3731-find-missing-elements](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -76,6 +78,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0242-valid-anagram) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
