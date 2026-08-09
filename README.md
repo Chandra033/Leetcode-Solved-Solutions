@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0169-majority-element](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0169-majority-element) |
@@ -34,6 +35,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Depth-First Search
 |  |
@@ -59,6 +61,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0169-majority-element) |
 ## Counting
 |  |
