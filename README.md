@@ -13,6 +13,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1929-concatenation-of-array](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/1929-concatenation-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@
 | [0229-majority-element-ii](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -30,6 +32,7 @@
 | [0217-contains-duplicate](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0242-valid-anagram) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
