@@ -18,3 +18,4 @@ class Solution {
         return maxlen;
     }
 }
+//sliding window and frequency array concepts used.
