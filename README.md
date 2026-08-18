@@ -20,6 +20,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0229-majority-element-ii) |
@@ -92,6 +93,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0242-valid-anagram) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -149,5 +151,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
