@@ -99,6 +99,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [1021-remove-outermost-parentheses](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
@@ -158,4 +159,12 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
