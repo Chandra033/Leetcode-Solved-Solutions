@@ -73,6 +73,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0268-missing-number) |
 | [1510-stone-game-iv](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/1510-stone-game-iv) |
+| [1903-largest-odd-number-in-string](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
@@ -102,6 +103,7 @@
 | [0242-valid-anagram](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1021-remove-outermost-parentheses](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
@@ -111,6 +113,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Chandra033/Leetcode-Solved-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
